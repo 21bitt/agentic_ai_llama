@@ -4,7 +4,8 @@ i think....i made an agentic ai...?
 
 folder structure
 
-your_agent_project/├── agent_terminal.py 
+your_agent_project/
+├── agent_terminal.py 
 
 ├── .env      
 
@@ -16,7 +17,7 @@ your_agent_project/├── agent_terminal.py 
 
 └── utils/
 
-  └── file_utils.py       
+    └── file_utils.py       
 
 used .env to hide openai api key used for this .py
 
