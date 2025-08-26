@@ -17,7 +17,7 @@ your_agent_project/
 
 └── utils/
 
-      └── file_utils.py       
+└── file_utils.py       
 
 used .env to hide openai api key used for this .py
 
